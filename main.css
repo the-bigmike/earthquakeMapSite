@@ -1,4 +1,4 @@
-body{
+body {
   margin: 0;
   background-color: #bababa;
 }
@@ -20,6 +20,20 @@ a.active {
 
 h1 {
   text-align: center;
+}
+
+#MainTitle {
+  font-size: 4em;
+}
+
+p {
+  text-align: center;
+}
+
+#description {
+  font-size: 1.5em;
+  font-weight: 300;
+  padding: 0 10%;
 }
 
 footer {
