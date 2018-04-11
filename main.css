@@ -1,0 +1,33 @@
+body{
+  margin: 0;
+  background-color: #bababa;
+}
+
+.navBar {
+  background-color: black;
+  font-size: 2em;
+  padding: .25em 1em;
+}
+
+a {
+  color: white;
+  padding-left: 1em;
+}
+
+a.active {
+  color: red;
+}
+
+h1 {
+  text-align: center;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  color: white;
+  background-color: black;
+  padding: .5em;
+}
